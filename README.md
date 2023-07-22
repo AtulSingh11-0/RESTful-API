@@ -1,2 +1,2 @@
 # CRUD-App
-A simple creation of a CRUD application
+Creation of a simple CRUD application
