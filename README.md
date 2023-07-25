@@ -1,2 +1,2 @@
-# CRUD-App
-Creation of a simple CRUD application
+# RESTful-API
+Creating a RESTful-API with the help of node.JS, Express.JS, MongoDB and Postman
