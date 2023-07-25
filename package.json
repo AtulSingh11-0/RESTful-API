@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AtulSingh11-0/CRUD-App.git"
+    "url": "git+https://github.com/AtulSingh11-0/RESTful-API.git"
   },
   "author": "Atul Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AtulSingh11-0/CRUD-App/issues"
+    "url": "https://github.com/AtulSingh11-0/RESTful-API/issues"
   },
-  "homepage": "https://github.com/AtulSingh11-0/CRUD-App",
+  "homepage": "https://github.com/AtulSingh11-0/RESTful-API",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.4.0",
